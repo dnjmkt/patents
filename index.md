@@ -1,5 +1,3 @@
-# URL一覧
-
 ## 特許・技術
 - [①特開2025-001067](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001067/11/ja)
 - [②特開2025-001066](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001066/11/ja)
