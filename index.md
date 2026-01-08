@@ -24,5 +24,5 @@
 - [㉑特開2022-044937](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044937/11/ja)
 
 ## デモ・参考
-- [artists](https://dnjmkt.github.io/patents/1.bak)
+- [artists](https://dnjmkt.github.io/patents/1.html)
 - [技術ブログ](https://example.com/)
