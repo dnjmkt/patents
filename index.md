@@ -175,6 +175,6 @@
 
 ---
 ## works
-- [藤本健](https://youtu.be/tjRnHe7NYNI?t=3387)
-- [松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl)
-- [サンレコ](https://x.com/snrec_jp/status/1956331845576192503)
+- [2022/3/22 藤本健](https://youtu.be/tjRnHe7NYNI?t=3387)
+- [2022/11/28 松武秀樹](https://www.facebook.com/ken.fujimoto.31/posts/pfbid02PgPj2MHnzZ6H8knQk7QJZd6cnHGyxCPCvxYVGBCPEKoK46QnXZnorEoYnQpcemBFl)
+- [2025/8/25 サンレコ](https://x.com/snrec_jp/status/1956331845576192503)
