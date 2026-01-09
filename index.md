@@ -174,3 +174,6 @@
 - [瀬戸弘司 （楽器店大賞）](https://youtu.be/UJtEmPri8E4?t=322) (YouTube)
 
 ---
+##works
+
+- [サンレコ］ （https://x.com/snrec_jp/status/1956331845576192503)
