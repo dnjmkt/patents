@@ -176,4 +176,4 @@
 ---
 ## works
 
-- [サンレコ］ （https://x.com/snrec_jp/status/1956331845576192503)
+- [サンレコ](https://x.com/snrec_jp/status/1956331845576192503)
