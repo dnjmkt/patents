@@ -6,30 +6,24 @@
 ## A. 歌詞・音節・フレーズ制御（基本特許群）
 **歌詞を「演奏可能なパラメータ」として扱う核**
 
-- **[20] 特開2022-044938**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044938/11/ja  
+- **[20｜特開2022-044938](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044938/11/ja)**  
   【音節の維持（キーコントロール）】  
   押鍵中は割り当てられた音節を保持する基本制御
 
-- **[21] 特開2022-044937**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044937/11/ja  
+- **[21｜特開2022-044937](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-044937/11/ja)**  
   【歌詞音節位置の制御（キーコントロール）】
 
-- **[22] 特開2021-149043**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-149043/11/ja  
+- **[22｜特開2021-149043](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2021-149043/11/ja)**  
   【歌詞フレーズ単位の歌詞進行制御（フレーズモード）】  
   ※体系の中核となる基本特許
 
-- **[15] 特開2023-015302**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-015302/11/ja  
+- **[15｜特開2023-015302](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-015302/11/ja)**  
   【ペダルによる歌詞進行制御（メリスマ／Lyric Hold）】
 
-- **[12] 特開2023-092599**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092599/11/ja  
+- **[12｜特開2023-092599](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092599/11/ja)**  
   【音節コード制御ON（左手コード＋右手メロ）】
 
-- **[13] 特開2023-092598**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092598/11/ja  
+- **[13｜特開2023-092598](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092598/11/ja)**  
   【音節コード制御OFF（左手ベース＋右手ブロック）】
 
 ---
@@ -37,20 +31,16 @@
 ## B. 抑揚・音高・ピッチ表現制御（歌い方）
 **「どう歌うか」を演奏で決める**
 
-- **[11] 特開2023-105472**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-105472/11/ja  
+- **[11｜特開2023-105472](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-105472/11/ja)**  
   【音節進行制御（ノートモード離鍵時処理）】
 
-- **[10] 特開2023-118866**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-118866/11/ja  
+- **[10｜特開2023-118866](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-118866/11/ja)**  
   【音高忠実度制御（オートチューン的）】
 
-- **[9] 特開2023-181433**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-181433/11/ja  
+- **[9｜特開2023-181433](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-181433/11/ja)**  
   【鍵盤操作に応じた抑揚制御】
 
-- **[14] 特開2023-092120**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092120/11/ja  
+- **[14｜特開2023-092120](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2023-092120/11/ja)**  
   【子音長変更（アタックバランサー）】
 
 ---
@@ -58,24 +48,19 @@
 ## C. 励振源・音源構造（歌声DSPの使い方）
 **歌声を“エフェクト的”に使う構造**
 
-- **[27] 特開2020-024456**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-024456/11/ja  
+- **[27｜特開2020-024456](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-024456/11/ja)**  
   【歌声外部励振源】
 
-- **[31] 特開2019-219661**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2019-219661/11/ja  
+- **[31｜特開2019-219661](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2019-219661/11/ja)**  
   【歌声モノ／ポリ切替】
 
-- **[18] 特開2022-116335**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-116335/11/ja  
-  【音高データによる歌詞進行制御（コードボイシング）】
+- **[18｜特開2022-116335](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-116335/11/ja)**  
+  【コードボイシングによる歌詞進行制御】
 
-- **[17] 特開2022-145465**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-145465/11/ja  
+- **[17｜特開2022-145465](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-145465/11/ja)**  
   【複数歌声モーフィング生成】
 
-- **[16] 特開2022-168269**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-168269/11/ja  
+- **[16｜特開2022-168269](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-168269/11/ja)**  
   【非鍵盤楽器の演奏表現を歌声に転用】
 
 ---
@@ -83,94 +68,77 @@
 ## D. UI・演奏操作・リアルタイム制御
 **弾いて操作できる歌声**
 
-- **[19] 特開2022-071098**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-071098/11/ja  
+- **[19｜特開2022-071098](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2022-071098/11/ja)**  
   【押鍵有無による歌詞発音制御（ボコーダー奏法）】
 
-- **[8] 特開2024-019631**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-019631/11/ja  
+- **[8｜特開2024-019631](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-019631/11/ja)**  
 
-- **[5] 特開2024-120186**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-120186/11/ja  
+- **[5｜特開2024-120186](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-120186/11/ja)**  
 
 ---
 
 ## E. 奏法・拡張演奏
 
-- **[6] 特開2024-086022**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-086022/11/ja  
+- **[6｜特開2024-086022](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-086022/11/ja)**  
   【鍵盤スライド演奏】
 
-- **[7] 特開2024-086014**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-086014/11/ja  
+- **[7｜特開2024-086014](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2024-086014/11/ja)**  
   【アプリによる黒鍵グリッサンド】
 
 ---
 
 ## F. 機械学習・歌声楽器
 
-- **[28] 特開2020-013170**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-013170/11/ja  
+- **[28｜特開2020-013170](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-013170/11/ja)**  
   【歌声楽器（機械学習）】
 
 ---
 
 ## G. 同期・可視化（体験設計）
 
-- **[29] 特開2020-013145**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-013145/11/ja  
+- **[29｜特開2020-013145](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-013145/11/ja)**  
   【ソングシンクプレイ（光鍵）】
 
-- **[30] 特開2020-003816**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-003816/11/ja  
+- **[30｜特開2020-003816](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2020-003816/11/ja)**  
   【ソングシンクプレイ】
 
-- **[37] 特開2019-113764**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2019-113764/11/ja  
+- **[37｜特開2019-113764](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2019-113764/11/ja)**  
   【光鍵リハーサルマーク】
 
 ---
 
 ## H. デュエット・複数歌声制御
 
-- **[1] 特開2025-001067**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001067/11/ja  
+- **[1｜特開2025-001067](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001067/11/ja)**  
   【デュエット第3鍵目によるエフェクト処理】
 
-- **[2] 特開2025-001066**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001066/11/ja  
+- **[2｜特開2025-001066](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001066/11/ja)**  
   【デュエットでどちらを歌わせるか制御】
 
-- **[3] 特開2025-001065**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001065/11/ja  
+- **[3｜特開2025-001065](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-2025-001065/11/ja)**  
   【デュエット機能】
 
 ---
 
 ## I. 商品化PoC（CT-S1000V世代）
 
-- **[32] 特許6610715（2019登録）**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6610715/15/ja  
+- **[32｜特許6610715（2019登録）](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6610715/15/ja)**  
   【歌声外部励振源】
 
-- **[33] 特許6610714（2019登録）**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6610714/15/ja  
+- **[33｜特許6610714（2019登録）](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6610714/15/ja)**  
   【歌声楽器（機械学習）】
 
 ---
 
 ## J. 基盤・長期有効特許（〜2040年）
 
-- **[34] 特許6587008（2019登録）**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6587008/15/ja  
+- **[34｜特許6587008（2019登録）](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6587008/15/ja)**  
   【ソングシンクプレイ】
 
-- **[35] 特許6587007（2019登録）**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6587007/15/ja  
+- **[35｜特許6587007（2019登録）](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6587007/15/ja)**  
   【ソングシンクプレイ（光鍵）】
 
-- **[36] 特許6547878（2019登録）**  
-  https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6547878/15/ja  
+- **[36｜特許6547878（2019登録）](https://www.j-platpat.inpit.go.jp/c1801/PU/JP-6547878/15/ja)**  
   【歌声モノ・ポリ切替】
 
 ---
