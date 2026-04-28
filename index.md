@@ -1,4 +1,4 @@
-https://jglobal.jst.go.jp/search/patents#%7B%22category%22%3A%223%22%2C%22keyword%22%3A%22%E6%AE%B5%E5%9F%8E%E7%9C%9F%22%7D
+https://jglobal.jst.go.jp/search/patents#%7B%22category%22%3A%223%22%2C%22keyword%22%3A%22%E6%AE%B5%E5%9F%8E%E7%9C%9F%22%2C%22limit%22%3A100%2C%22page%22%3A1%7D
 # 🎼 歌声合成×電子楽器 特許体系（保存用・完全版）
 
 本ドキュメントは、  
